@@ -1,0 +1,7 @@
+*.vmdk
+*.vmx
+*.vmxf
+*.vmsd
+*.nvram
+*.iso
+*.log
